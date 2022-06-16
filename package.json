@@ -1,0 +1,11 @@
+{
+  "name": "prepros-project",
+  "version": "1.0.0",
+  "description": "This is a dummy package.json file created by Prepros to manage packages with NPM. You can edit this file to add your own information.",
+  "dependencies": {
+    "aggregate-error": "^4.0.1",
+    "combine": "^0.1.4",
+    "compile": "0.0.2",
+    "css-class-combiner": "^1.0.4"
+  }
+}
